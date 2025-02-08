@@ -1,11 +1,8 @@
 ---
 title: "Alec's 5-5-5 Deal: 5 Movie, Album, and Book Recommendations from 2024"
-date: 2024-12-31
-description: "My favorite media from 2024"
-draft: false
-toc: true
+date: 2024-12-31T12:00:00-05:00
+description: My favorite media from 2024
 ---
-
 5 movies, 5 albums, 5 books that you get an unasked opinion about, for free! What a deal. With this list and website I guess I am essentially combining two things I've been doing a lot of this year, especially quite recently: tech-tinkering and journaling. So I guess here you have a more focused, public version of a journal entry of mine, that required a lot of GitHub commits in order to appear before your face. Admittedly the tech part of this took about 95% of the effort, with 2% going toward the actual journaling/writeup and a mysterious third amount. Anyway, these are some short thoughts about movies and albums I enjoyed that came out this year, and some books that I read this year (that didn't necessarily come out recently).
 
 ## 🎬 5 Movies
@@ -13,21 +10,21 @@ toc: true
 This year I became quite the insufferable Letterboxd user. Unemployment have something to do with it? Maybe, maybe... though I have realized it's my calling (not - it's just a website for logging things, a concept I have been a fan of since I discovered last.fm in high school). Here's some opinions that are neither funny nor interesting enough for that site. 
 
 ### Anora
-![Movie Poster](/content/images/anora.jpg)
+![Movie Poster](images/anora.jpg)
 
 *Director: Sean Baker*
 
 The other movies on this list aren't in any particular order, but this one is my top movie of the year. It definitely caught me by surprise, as I did not find out about it until quite late December. This certainly solidifies Sean Baker as a favorite filmmaker for me, all of his films feel so significant to the point where I can remember the days I saw each of them for the first time, which is a little rare at least for me. In relation to his other films this one isn't completely original per se, it's certainly a character piece / day in the life of some marginalized member of society, in this case a sex worker who has found herself working for a spoiled Russian oligarch's son. The filming is beautiful, and shot in a way that despite somewhat ordinary things going on for the duration of the film, you still get sucked all the way in.
 
 ### Alien: Romulus
-![Movie Poster](/content/images/alien.jpg)
+![Movie Poster](images/alien.jpg)
 
 *Director: Fede Álvarez*
 
 This is a pretty unexpected selection, I admittedly hadn't seen any of the Alien movies prior to the release of this one (I watched the first Alien the day I bought tickets for Romulus, so like right before going to the theater). I've since watched them all, and it's a franchise full of some definite classics and some real stinkers. This one feels like it could be a modern classic, though I don't really know how much that is a thing these days with the sheer amount of shit that gets pumped out. But it certainly has everything going for it to be one, in my view. It has pretty much everything I enjoy in a space sci fi flick, combined with some fun slashy gore, but not an overreliance on it: horror movies for me really need to have an extreme tension, sense of impending doom, an atmosphere, and this one has that. 
 
 ### Will & Harper
-![Movie Poster](/content/images/will.jpg)
+![Movie Poster](images/will.jpg)
 
 *Director: Josh Greenbaum*
 
@@ -36,14 +33,14 @@ This one was really nice (and important). Not much needs to be said about how fu
 trans rights are human rights
 
 ### Challengers
-![Movie Poster](/content/images/challengers.jpg)
+![Movie Poster](images/challengers.jpg)
 
 *Director: Luca Guadagnino*
 
 I don't think I have much to say about this movie that hasn't been said, its hype was pretty strong but fairly warranted I would say. I'm quite a fan of the Luca Guadagnino films I've seen so far, and they've all been quite different so it's pretty cool to see. The score of this one is excellent, Trent Reznor and Atticus Ross (Nine Inch Nails) made a real good one, I've listened to it quite a bit actually here and there throughout the year. Quirked up white boy busts it down sexual style (with the sauce). Or whatever the kids say.
 
 ### The Bikeriders
-![Movie Poster](/content/images/bikeriders.jpg)
+![Movie Poster](images/bikeriders.jpg)
 
 *Director: Jeff Nichols*
 
@@ -55,7 +52,7 @@ This is one of those movies that I cannot say is very original, and yet it is so
 I wish my list was a little more diverse, but I did listen to a lot of heavy music this year so that's what this list is consisting of. Sowwy not sowwy. 🥺
 
 ### Absolute Elsewhere by Blood Incantation
-![Album Cover](/content/images/bloodincantation.jpg)
+![Album Cover](images/bloodincantation.jpg)
 
 *genre: death metal on a lot of acid*
 
@@ -64,7 +61,7 @@ I'm so happy these guys are getting some mainstream recognition, they're making 
 *Favorite Track: THE WHOLE THING! It's two 20 minute tracks lol*
 
 ### Maze Envy by Civerous
-![Album Cover](/content/images/civerous.jpg)
+![Album Cover](images/civerous.jpg)
 
 *genre: death/doom metal*
 
@@ -73,7 +70,7 @@ This one really took me by surprise, I had given it a couple of listens when it 
 *Favorite Track: Geryon (The Plummet)*
 
 ### Artificial Bouquet by Frail Body
-![Album Cover](/content/images/frailbody.jpg)
+![Album Cover](images/frailbody.jpg)
 
 *genre: screamo*
 
@@ -82,7 +79,7 @@ Loud, pretty, frantic, calm, this album is all over the place and I love it. But
 *Favorite Track: A Capsule in the Sediment*
 
 ### Nocturnal Will by Dödsrit
-![Album Cover](/content/images/dodsrit.jpg)
+![Album Cover](images/dodsrit.jpg)
 
 *genre: melodic black metal, crust*
 
@@ -91,7 +88,7 @@ This further exemplifies a growing trend in my recent years' listening, enjoying
 *Favorite Tracks: Nocturnal Fire, As Death Comes Reaping*
 
 ### Cool World by Chat Pile
-![Album Cover](/content/images/chatpile.jpg)
+![Album Cover](images/chatpile.jpg)
 
 *genre: sludge metal, noise rock*
 
@@ -114,13 +111,13 @@ Pretty neat to see a band like Chat Pile gaining some popularity, much in a simi
 We can consider the books a bonus section maybe. I'm not nearly a big enough of a reader to be providing you with only selections that were written this year, so these will just be general book recommendations that I read this year.
 
 ### The Dharma Bums by Jack Kerouac
-![Book Cover](/content/images/dharma.jpg)
+![Book Cover](images/dharma.jpg)
 
 *Originally Published: 1958*
 
  My first and only Kerouac so far and I loved it. Following along with the audiobook read by Ethan Hawke probably helped, but the writing was really vivid and pretty. Quite cozy and a nice little escape. I'm not really sure if people really make this or other books of his to be a really deep thing, because I didn't get that from it, but I did really enjoy his storytelling so it's enough for a recommendation from me and enough for me to want to try some more of his. 
 ### The Way of Zen by Alan Watts
-![Book Cover](/content/images/zen.jpg)
+![Book Cover](images/zen.jpg)
 
 *Originally Published: 1957*
 
@@ -129,21 +126,21 @@ Alan Watts has always been a favorite philosophical figure and quote-smith, so I
 *"I have no other self than the totality of things of which I am aware."*
 
 ### The Jungle by Upton Sinclair
-![Book Cover](/content/images/jungle.jpg)
+![Book Cover](images/jungle.jpg)
 
 *Originally Published: 1905*
 
 This one has been on my list for a while, given my worldview and political leanings it's certainly a must. A really wonderfully written immigrant story first and foremost, and a quite harrowing view of the quality of life of the American laborer at the turn of the 20th century. You could use this as a starting point to try to explain why simple quality of life improvements for the working class is considered "radical". 
 
 ### Unwinding Anxiety by Judson Brewer, MD, PhD
-![Book Cover](/content/images/anxiety.jpg)
+![Book Cover](images/anxiety.jpg)
 
 *Originally Published: 2020*
 
 Alright finally something more modern eh? If you know me personally it's probably no surprise that I suffer from anxiety and depression (whether I've explicitly told you or not I guess, lol), and in my process of finally confronting it, getting treated and exploring and researching on my own I encountered Dr. Brewer speaking on one podcast or another promoting this book of his. I ended up buying it after not hearing that much, I figured as part of my due diligence with a diagnosis maybe it's worth reading at least one book on the subject (listen kids: also go actually see a doctor - I eventually did) so I grabbed it and I was beyond happy that I did. One thing I've realized about mental health, at least for me, it's incredibly helpful to get lost in the science of it (well, it's helpful to eventually understand it too) because it really brings you outside of your experience and lets you examine it for what it is: a neurochemical, biological phenomenon. You're a person experiencing a thing. And a lot of anxiety ends up being our reactions to this phenomenon. That isn't to say "get good" or "stop reacting that way", but more like, start making the effort of taking a look at your mind, your body, and analyze what is happening when you feel bad. I find the neuro-stuff with anxiety and depression to be pretty fascinating so this was a nice easy introduction to it, there's plenty much more complicated stuff you can get into if you're made more curious by his framing. 
 
 ### Cat's Cradle by Kurt Vonnegut Jr.
-![Book Cover](/content/images/cradle.jpg)
+![Book Cover](images/cradle.jpg)
 
 *Originally Published: 1963*
 

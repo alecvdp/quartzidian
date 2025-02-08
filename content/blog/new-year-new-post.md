@@ -1,9 +1,7 @@
 ---
-title: "An unstructured blog post"
-date: 2025-01-03
-description: "Blogging about what I might be doing with this page"
-draft: false
-toc: true
+title: An unstructured blog post
+date: 2025-01-03T12:00:00-05:00
+description: Blogging about what I might be doing with this page
 ---
 
 Well the first blog post on here was with a specific goal, a specific format, one that is quite commonplace around the end of year on social media. Now here's me going off the rails, free form, just typing directly on a .md file in VS Code! Look at me go! 
